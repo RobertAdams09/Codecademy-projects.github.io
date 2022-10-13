@@ -7,6 +7,10 @@
   text-align: center;
 }
 
+nav li {
+  display: inline; 
+}
+
 .navbar {
   border-bottom: 1px solid seashell;
   height: 69px;

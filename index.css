@@ -5,13 +5,19 @@
   background-color: black;
   opacity: 0.9;
   text-align: center;
+  margin: o;
 }
 
 .navcontainer {
+  width: 100%
   height: 69px;
-  border-bottom: 1px solid seashell;
-  display: inline-flex;
+  display: block;
+  background-color: black;
+  position: fixed;
+  top: 0px;
 
 .logo {
-  
+  height: 50px;
+  float: left;
+  padding-left: 10px; 
 }

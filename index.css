@@ -12,11 +12,6 @@
   border-bottom: 1px solid seashell;
   display: inline-flex;
 
-nav li {
-  display: inline; 
-}
-
-.navbar {
-  position: fixed;
-  top: 0px;
+.logo {
+  
 }

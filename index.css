@@ -6,3 +6,10 @@
   opacity: 0.9;
   text-align: center;
 }
+
+.navbar {
+  border-bottom: 1px solid seashell;
+  height: 69px;
+  position: fixed;
+  top: 0px;
+}
